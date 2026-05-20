@@ -25,14 +25,16 @@ This notebook explores the origins of algorithmic bias, how it propagates throug
   * Distinguish between **Harms of Allocation** and **Harms of Quality-of-Service**.
   * Explore real-world case studies (COMPAS recidivism, Google Vision API mislabeling, Twitter's image-cropping bias, and political leanings in LLMs).
   * Analyze multi-layer AI governance frameworks (UNESCO and the Hourglass Model of Organizational AI Governance).
-
+![alt text](assets/axbom_com_machine_learning_biases.png)
+![alt text](assets/elements_ai_ethics_02.png)
+![alt text](assets/Hand_gun_Monoculer_googlevision_mobile.png)
 ### 🎨 [Notebook 2: Generative Models and Synthetic Media](./Notebook2.ipynb)
 An exploration of the mechanics, creative possibilities, and deep ethical tensions of synthetic media.
 * **Key Learning Goals:**
   * Understand the intuitive dynamics behind **Generative Adversarial Networks (GANs)** (generator vs. discriminator) and **Variational Autoencoders (VAEs)** (latent space distribution modeling).
   * Examine the boundary between artistic empowerment (AI art, digital de-aging, historical restoration) and malicious manipulation (**deepfakes**, financial fraud, political disinformation).
   * Reflect on systemic challenges regarding **consent, digital identity ownership, and intellectual property (IP)** in generative training pipelines.
-
+![alt text](assets/17_fakeHistoricalPhoto_aap_com_au_factcheck_ai-used-to-generate-fake-history-photos.png)
 ### 🍃 [Notebook 3: Sustainability and the Cost of Intelligence](./Notebook3.ipynb)
 A quantitative, systems-level analysis of the massive energy, compute, and carbon footprints driving modern AI.
 * **Key Learning Goals:**
@@ -41,7 +43,9 @@ A quantitative, systems-level analysis of the massive energy, compute, and carbo
   * Explore why **inference (not training) dominates 60–90% of an AI model's global lifecycle energy demand**.
   * Compare cooling technologies (air vs. liquid vs. direct immersion cooling) in modern data centers.
   * Implement and analyze **Green AI** compression and efficiency techniques: **pruning, quantization (e.g., FP32 to INT8), knowledge distillation, parameter-efficient fine-tuning (LoRA), and sparse Mixture-of-Experts (MoE)**.
-
+![alt text](assets/17.png)
+![alt text](assets/07.png)
+![alt text](assets/13.png)
 ### 🔮 [Notebook 4: The Future of Deep Learning](./Notebook4.ipynb)
 A macro-level look ahead at emerging paradigms, unified multimodal architectures, safety taxonomies, and international regulatory landscapes.
 * **Key Learning Goals:**
@@ -50,7 +54,8 @@ A macro-level look ahead at emerging paradigms, unified multimodal architectures
   * Examine next-generation physical computing paradigms: **Neuromorphic computing, Spiking Neural Networks (SNNs), and Quantum Machine Learning (QML)**.
   * Leverage AI Safety Taxonomies to categorize risks of misalignment, misuse, and systemic failures.
   * Compare global regulatory models, including the **EU AI Act**, US executive frameworks, and OECD/UNESCO guidelines.
-
+![alt text](assets/02_AIEcosystem_from_Merics_org.png)
+![alt text](assets/12_AI_History_Timeline_from_wikimedia.png)
 ---
 
 ## 🚀 Key Technical Concepts Covered
